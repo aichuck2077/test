@@ -1,0 +1,14 @@
+# Trae / SOLO workspace
+.uploads/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Common language artifacts
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
